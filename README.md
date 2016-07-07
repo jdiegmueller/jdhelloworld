@@ -1,10 +1,10 @@
 # jdhelloworld
 # Created by jason@nevosi.com, 7/6/2016
 
-This is the second version of the README.md file.
+This is the third version of the README.md file.
 
-Because I updated the first version (to create this version), it is heretofor the second version.
-
-Starting now.
+You see, I am testing github integration with IntelliJ IDEA 2016.2.  So 
+I updated the second version (which was in and of itself just an update 
+of the first version) to create this -- the third version.
 
 -jd
